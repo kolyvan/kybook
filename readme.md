@@ -59,6 +59,17 @@ Join at [testflightapp.com](http://tflig.ht/18dbZRF)
 ![ODPS Catalogs](https://raw.github.com/kolyvan/kybook/master/screenshots/opdscatalog3.png)    
 ![ODPS Catalogs](https://raw.github.com/kolyvan/kybook/master/screenshots/opdscatalog2_ru.png)
 
+#### Google Books
+![Google Books](https://raw.github.com/kolyvan/kybook/master/screenshots/google_books.png)    
+![Google Books](https://raw.github.com/kolyvan/kybook/master/screenshots/google_books_volume.png)    
+![Google Books](https://raw.github.com/kolyvan/kybook/master/screenshots/google_books_read.png)    
+![Google Books](https://raw.github.com/kolyvan/kybook/master/screenshots/google_books_download.png)
+
+#### Google Auth
+![Google Books](https://raw.github.com/kolyvan/kybook/master/screenshots/google_auth.png)    
+![Google Books](https://raw.github.com/kolyvan/kybook/master/screenshots/google_auth_complete.png)
+
+
 #### Settings
 ![ODPS Catalogs](https://raw.github.com/kolyvan/kybook/master/screenshots/settings1.png)    
 ![ODPS Catalogs](https://raw.github.com/kolyvan/kybook/master/screenshots/settings2.png)    
