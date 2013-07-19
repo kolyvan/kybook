@@ -11,7 +11,7 @@ Join at [testflightapp.com](http://tflig.ht/18dbZRF)
 ![Main](https://raw.github.com/kolyvan/kybook/master/screenshots/main.png)
 
 #### Main (Edit mode)
-![Main](https://raw.github.com/kolyvan/kybook/master/screenshots/main_edit.png)
+![Main](https://raw.github.com/kolyvan/kybook/master/screenshots/menu_edit.png)
 ![Main](https://raw.github.com/kolyvan/kybook/master/screenshots/menu_clouds.png)
 
 #### Bookshelf
