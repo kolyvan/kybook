@@ -1,19 +1,21 @@
 KyBook is a modern ebook reader for iOS.
 ===========================================
 
-KyBook is a modern ebook reader for iOS.
-Supports ePub, FB2 and PDF formats
-Richest abilities to search and download books from various sources.
-Supports OPDS Catalogs and Netwrok Folders (MS Windows/SMB)
-Integrated with Google Books, Google Drive, Dropbox and Yandex Disk.
-Downloads books from Web Browser (e.g.  Mobile Safari) or Mail or via iTunes.
-Adjustable fonts, themes, text size, line height, margins, text align and more.
-Built-in search for books, search inside ebooks and PDF documents.
-Table of contents, notes and bookmarks for ebooks and PDF docuemnts.
-Shows all of the available meta-information about a ebook or PDF document.
-Book Management: bookshelves, categories, sorting and different show modes.
-Edits covers, titles and subjects of books.
-Turn pages or scroll them. Vertically or horizontally. 
+#### KyBook features.
+
+- Supports ePub, FB2 and PDF formats.
+- Richest abilities to search and download books from various sources.
+- Supports OPDS Catalogs and Netwrok Folders (MS Windows/SMB)
+- Integrated with Google Books, Google Drive, Dropbox and Yandex Disk.
+- Downloads books from Web Browser (e.g.  Mobile Safari) or Mail or via iTunes.
+- Adjustable fonts, themes, text size, line height, margins, text align and more.
+- Built-in search for books, search inside ebooks and PDF documents.
+- Table of contents, notes and bookmarks for ebooks and PDF docuemnts.
+- Shows all of the available meta-information about a ebook or PDF document.
+- Book Management: bookshelves, categories, sorting and different show modes.
+- Edits covers, titles and subjects of books.
+- Turn pages or scroll them. Vertically or horizontally.    
+
 And more: dictionary, text to speech, full screen mode, lockable orientation, adjustable screen brightness and more coming soon. 
 
 ### Want to beta test for KyBook? 
