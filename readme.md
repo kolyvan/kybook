@@ -1,27 +1,36 @@
-KyBook is a modern ebook reader for iOS.
+KyBook is a modern reader application for e-books.
 ===========================================
 
-#### KyBook features
+### [Available on the App Store](http://itunes.apple.com/app/id673027171)
 
-- Supports ePub, FB2 and PDF formats.
-- Richest abilities to search and download books from various sources.
-- Supports OPDS Catalogs and Netwrok Folders (MS Windows/SMB)
-- Integrated with Google Books, Google Drive, Dropbox and Yandex Disk.
-- Downloads books from Web Browser (e.g.  Mobile Safari) or Mail or via iTunes.
-- Adjustable fonts, themes, text size, line height, margins, text align and more.
-- Built-in search for books, search inside ebooks and PDF documents.
-- Table of contents, notes and bookmarks for ebooks and PDF documents.
-- Shows all of the available meta-information about a ebook or PDF document.
-- Book Management: bookshelves, categories, sorting and different show modes.
-- Edits covers, titles and subjects of books.
-- Turn pages or scroll them. Vertically or horizontally.    
-- And also dictionary, text to speech, full screen mode, lockable orientation, adjustable screen brightness and more coming soon. 
+KyBook is a modern reader application for e-books.
+It has highly customizable and friendly interface and also:   
 
-### Want to beta test for KyBook? 
-Join at [testflightapp.com](http://tflig.ht/18dbZRF)    
-Or download .ipa [v0.4.6](https://dl.dropboxusercontent.com/u/80472203/kybook.ipa)    
-Test it and send feedback [@kolyvan_ru](http://twitter.com/kolyvan_ru)    
+- Supports e-books in EPUB, FictionBook (fb2, fb2.zip) and PDF formats. 
+- Has wide opportunities in searching and downloading e-books from different sources.
+- Provides access to enormous collection of free electronic books through OPDS-catalogs support.
+- Downloads e-books directly from network folders in local network via MS Windows/SMB protocol and with the help of Web Browser (Mobile Safari), e-mail or iTunes.     
+- Saves your books into cloud storages and network folders.
+- Integrated with Google Books, Google Drive, Dropbox and Yandex Disc.
+- Allows flexible setting of text displaying: font selection, colour theme, text size, text alignment mode, line height, margins, paragraph indention and hyphenations.    
+- Allows choosing book covers from different sources, changing titles and subjects.
+- Provides easy navigation inside the book using table of content, bookmarks or notes. 
+- Helps organizing your books on shelves, cataloging them under subjects and sorting in different modes.  
+- Has full-screen reading mode in landscape and portrait orientation.
+- Allows turning and scrolling pages in vertical or horizontal mode.  
+- Allows locking orientation and changing screen brightness.  
+- Supports dictionaries, translation of selected text and text-to-speech.
+ 
+#### Key features:   
+- EPUB, FB2, PDF formats  
+- OPDS catalogs and network folders  
+- Google Books, Google Drive, Dropbox, Yandex Disc
+- Flexible reading mode settings
+- Text-to-speech
 
+### [Open-Source Licenses](http:/kolyvan.com/kybook/licensing.html)
+
+### [Web Site](http:/kolyvan.com/kybook/)
 
 #### Main
 ![Main](https://raw.github.com/kolyvan/kybook/master/screenshots/main.png)
