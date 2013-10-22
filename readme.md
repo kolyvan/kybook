@@ -36,9 +36,10 @@ It has highly customizable and friendly interface and also:   
 
 ### [Web Site](http:/kolyvan.com/kybook/)
 
-### [KyBook Screens v1.3.3 iPhone iOS7 Ru](https://www.dropbox.com/sh/mztebuw4ou72l8l/jrQD3B-t3M#/)
-    	
+### Latest Screens
 
+[KyBook Screens v1.3.3 iPhone iOS7 Ru](https://www.dropbox.com/sh/mztebuw4ou72l8l/jrQD3B-t3M#/)
+    	
 #### Main
 ![Main](https://raw.github.com/kolyvan/kybook/master/screenshots/main.png)
 
