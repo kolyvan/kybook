@@ -6,7 +6,7 @@ KyBook is a modern reader application for e-books.
 KyBook is a modern reader application for e-books.
 It has highly customizable and friendly interface and also:   
 
-- Supports e-books in EPUB, FictionBook (fb2, fb2.zip) and PDF formats. 
+- Supports e-books in EPUB, FictionBook (fb2, fbz, fb2.zip) PDF, DJVU, TXT and RTF formats. 
 - Has wide opportunities in searching and downloading e-books from different sources.
 - Provides access to enormous collection of free electronic books through OPDS-catalogs support.
 - Downloads e-books directly from network folders in local network via MS Windows/SMB protocol and with the help of Web Browser (Mobile Safari), e-mail or iTunes.     
@@ -20,17 +20,24 @@ It has highly customizable and friendly interface and also:   
 - Allows turning and scrolling pages in vertical or horizontal mode.  
 - Allows locking orientation and changing screen brightness.  
 - Supports dictionaries, translation of selected text and text-to-speech.
+- Integrated with social networking services (Facebook, Twitter, Vkontakte)
+- Supports of VK Docs as Cloud Storage
+- Built-in Web Browser
+- Supports Tor Network
  
-#### Key features:   
+### Key features:   
 - EPUB, FB2, PDF formats  
 - OPDS catalogs and network folders  
 - Google Books, Google Drive, Dropbox, Yandex Disc
 - Flexible reading mode settings
-- Text-to-speech
+
 
 ### [Open-Source Licenses](http:/kolyvan.com/kybook/licensing.html)
 
 ### [Web Site](http:/kolyvan.com/kybook/)
+
+### [KyBook Screens v1.3.3 iPhone iOS7 Ru](https://www.dropbox.com/sh/mztebuw4ou72l8l/jrQD3B-t3M#/)
+    	
 
 #### Main
 ![Main](https://raw.github.com/kolyvan/kybook/master/screenshots/main.png)
