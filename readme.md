@@ -25,6 +25,7 @@ It has highly customizable and friendly interface and also:   
 - Built-in Web Browser
 - Supports Tor Network
  
+
 ### Key features:   
 - EPUB, FB2, PDF formats  
 - OPDS catalogs and network folders  
